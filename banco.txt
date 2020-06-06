@@ -1,0 +1,11 @@
+CREATE TABLE public.tbl_usuario
+(
+	cod_usuario INTEGER NOT NULL,	
+	txt_usuario VARCHAR(255) NOT NULL,	
+	txt_email VARCHAR(255) NOT NULL,
+	txt_login VARCHAR(255) NOT NULL,
+	txt_senha VARCHAR(255) NOT NULL,	
+	PRIMARY KEY (cod_usuario)
+);
+
+CREATE UNIQUE INDEX UQ_tbl_usuario_txt_login ON public.tbl_usuario(txt_login);

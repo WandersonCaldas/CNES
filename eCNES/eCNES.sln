@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eCNES", "eCNES.csproj", "{B7BA0D60-889A-4B51-8A0F-D6F92AC98B5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7BA0D60-889A-4B51-8A0F-D6F92AC98B5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7BA0D60-889A-4B51-8A0F-D6F92AC98B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7BA0D60-889A-4B51-8A0F-D6F92AC98B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7BA0D60-889A-4B51-8A0F-D6F92AC98B5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5BBD1F0-C9F1-4DAD-A307-A51C4B373A11}
+	EndGlobalSection
+EndGlobal
